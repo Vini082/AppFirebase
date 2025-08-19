@@ -72,7 +72,7 @@ export default function LoginScreen({ onLogin }) {
 }
 
 const styles = StyleSheet.create({
-  container: { flex:1, justifyContent: 'center', padding: 20 },
+  container: { padding: 10 },
   title: { fontSize: 32, marginBottom: 24, textAlign: 'center' },
   input: { borderWidth: 1, borderColor: '#ccc', borderRadius: 5, marginBottom: 12, padding: 10 },
   toggleText: { color: '#0066cc', textAlign: 'center', fontSize: 16 }

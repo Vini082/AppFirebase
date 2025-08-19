@@ -98,11 +98,11 @@ export default function App() {
 }
 
 const styles = StyleSheet.create({
-  container: { padding: 20, paddingTop: 50, flex: 1 },
+  container: { padding: 20, paddingTop: 20},
   welcome: {
     fontSize: 16,
     fontWeight: 'bold',
-    marginBottom: 10,
+    marginBottom: 20,
   },
   title: { fontSize: 24, fontWeight: 'bold', marginBottom: 20 },
   input: { borderWidth: 1, padding: 10, marginBottom: 10, borderRadius: 5 },
